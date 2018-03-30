@@ -1,1 +1,1 @@
-# OOP-11.4
+First exercise with JS object constructors and prototypes.
